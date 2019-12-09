@@ -1,0 +1,23 @@
+.page1
+{
+    color: white;
+    margin: auto;
+    background-color: black;
+    background-size: auto;
+}
+
+.container
+{
+    background-color: #80122C;
+    width: 1000px;
+    padding: 10px;
+    border: 5px solid gray;
+}
+
+.takeaway
+{
+    background-color:#511709;
+    width: 700px;
+    padding:10px;
+    border:5px solid gray;
+}
